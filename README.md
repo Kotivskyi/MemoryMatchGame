@@ -1,2 +1,5 @@
 # iOSCardGame
-Memory Match game implementation for iOS using UIKit
+
+Memory Match game simple implementation for iOS using UIKit.
+
+//Originally implemented as test assigment for interview
